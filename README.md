@@ -7,7 +7,7 @@ Study Planning Service
 
 
 
-Problem: There are some students who finish their assignments at the end of the due date. It's because they have troubles in their time 			    management. If they distribute their work properly, they can finish their work more easily.
+Problem: There are some students who finish their assignments at the end of the due date. It's because they have troubles in their time management. If they distribute their work properly, they can finish their work more easily.
 
 
 
