@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>네이버 홈</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header class="naver-header">
+		<div class="naver-logo">
+			<a href="#"><img src="https://static.nid.naver.com/images/ui/common/logo_naver_2023.png" alt="NAVER" height="40"></a>
+		</div>
+		<form class="naver-search" action="#" method="get">
+			<input type="text" placeholder="검색어를 입력하세요" name="query">
+			<button type="submit">검색</button>
+		</form>
+		<nav class="naver-nav">
+			<ul>
+				<li><a href="#">메일</a></li>
+				<li><a href="#">카페</a></li>
+				<li><a href="#">블로그</a></li>
+				<li><a href="#">쇼핑</a></li>
+				<li><a href="#">뉴스</a></li>
+				<li><a href="#">증권</a></li>
+				<li><a href="#">부동산</a></li>
+				<li><a href="#">지도</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section class="naver-main-content">
+			<h2>실시간 뉴스</h2>
+			<ul>
+				<li><a href="#">뉴스 기사 1</a></li>
+				<li><a href="#">뉴스 기사 2</a></li>
+				<li><a href="#">뉴스 기사 3</a></li>
+			</ul>
+		</section>
+		<section class="naver-side-content">
+			<h2>인기 검색어</h2>
+			<ol>
+				<li>검색어 1</li>
+				<li>검색어 2</li>
+				<li>검색어 3</li>
+			</ol>
+		</section>
+	</main>
+	<footer class="naver-footer">
+		<p>&copy; 2025 NAVER. All rights reserved.</p>
+	</footer>
+</body>
+</html>
