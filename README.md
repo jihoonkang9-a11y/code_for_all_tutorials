@@ -16,6 +16,3 @@ MVP: Basic website with calendar with AI analysis system
 
 
 Features: If users upload their deatiled volume assignments, AI analyzes and distributes them so that users can start it easily.
-
-
-
